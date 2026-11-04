@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.env
+*.pyc
+learning_coach.db
+.streamlit/secrets.toml
